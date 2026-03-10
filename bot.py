@@ -388,8 +388,7 @@ class MyntisBot:
         return False
 
     def _get_w3(self):
-        kwargs = {"proxies": self.active_proxies} if self.active_proxies else {}
-        w3 = Web3(Web3.HTTPProvider(RPC_URL, request_kwargs=kwargs))
+        w3 = Web3(Web3.HTTPProvider(RPC_URL))
         w3.middleware_onion.inject(ExtraDataToPOAMiddleware, layer=0)
         return w3
 
@@ -416,9 +415,8 @@ class MyntisBot:
         }
         """
         try:
-            r = requests.post(GRAPHQL_URL, headers=self.headers, cookies=self.cookies, json={"query": q}, timeout=15, proxies=self.active_proxies)
-            if r.status_code == 429 and self.enable_proxy_if_needed():
-                r = requests.post(GRAPHQL_URL, headers=self.headers, cookies=self.cookies, json={"query": q}, timeout=15, proxies=self.active_proxies)
+            # Tidak menggunakan proxy/smart-proxy untuk operasi claim
+            r = requests.post(GRAPHQL_URL, headers=self.headers, cookies=self.cookies, json={"query": q}, timeout=15)
             r.raise_for_status()
             data = r.json()
             rewards = data.get("data", {}).get("claimableRewards", [])
@@ -436,11 +434,9 @@ class MyntisBot:
         }
         """
         try:
+            # Tidak menggunakan proxy/smart-proxy untuk operasi claim
             r = requests.post(GRAPHQL_URL, headers=self.headers, cookies=self.cookies,
-                              json={"query": q, "variables": {"batchId": batch_id, "proof": proof_data}}, timeout=15, proxies=self.active_proxies)
-            if r.status_code == 429 and self.enable_proxy_if_needed():
-                r = requests.post(GRAPHQL_URL, headers=self.headers, cookies=self.cookies,
-                                  json={"query": q, "variables": {"batchId": batch_id, "proof": proof_data}}, timeout=15, proxies=self.active_proxies)
+                              json={"query": q, "variables": {"batchId": batch_id, "proof": proof_data}}, timeout=15)
             data = r.json()
             result = data.get("data", {}).get("claimRewards", {})
             if result.get("success"):
