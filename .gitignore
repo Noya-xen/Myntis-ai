@@ -1,0 +1,5 @@
+__pycache__/
+reports/
+accounts.txt
+bot_state.json
+cookie.txt

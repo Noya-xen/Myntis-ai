@@ -1,0 +1,119 @@
+### Tema 1: Dasar-dasar Bitcoin dan Jaringan (Pengenalan)
+1. Apa itu Bitcoin dan bagaimana cara kerjanya secara sederhana untuk orang awam?
+2. Siapa pencipta Bitcoin, dan mengapa identitas aslinya (Satoshi Nakamoto) tidak pernah diungkap?
+3. Kamu menyebutkan sistem desentralisasi, lalu bagaimana cara jaringan Bitcoin mencegah pemalsuan transaksi (double spending) tanpa adanya bank sentral?
+4. Apa peran 'miner' atau penambang dalam proses validasi transaksi tersebut?
+5. Lalu, apa yang dimaksud dengan mekanisme konsensus Proof of Work (PoW) yang digunakan oleh para penambang ini?
+6. Berapa batas maksimal suplai Bitcoin yang bisa ditambang, dan apa yang terjadi secara teknis jika batas itu tercapai?
+7. Ada fenomena empat tahunan bernama "Halving", apa itu dan bagaimana dampaknya terhadap hadiah penambang serta harga pasar?
+8. Jika penambang mendapat lebih sedikit hadiah setelah Halving, dari mana mereka akan mendapatkan keuntungan operasional di masa depan?
+9. Selain sebagai aset investasi pelindung nilai, apakah Bitcoin benar-benar efektif digunakan sebagai alat pembayaran transaksi sehari-hari saat ini?
+10. Mengingat volatilitas harganya yang tinggi, apa saja risiko utama jika seseorang baru mulai berinvestasi di Bitcoin hari ini?
+
+### Tema 2: Ethereum, Smart Contract, dan Gas Fee
+11. Apa perbedaan utama antara tujuan diciptakannya jaringan Ethereum dibandingkan dengan Bitcoin?
+12. Di dalam ekosistem Ethereum ada yang namanya 'Smart Contract', apa definisi sebenarnya dari istilah tersebut?
+13. Bisakah kamu memberikan contoh kasus penggunaan dunia nyata di mana Smart Contract ini sangat berguna?
+14. Ethereum menggunakan mekanisme Proof of Stake (PoS), bagaimana perbedaannya dengan mekanisme Proof of Work di Bitcoin?
+15. Bagaimana cara seseorang bisa menjadi 'validator' di jaringan PoS Ethereum dan apa saja persyaratannya?
+16. Saat kita melakukan transaksi di Ethereum, sering muncul biaya yang disebut 'Gas Fee'. Apa sebenarnya Gas Fee itu?
+17. Mengapa harga Gas Fee ini bisa naik atau turun dengan sangat drastis hanya dalam hitungan menit?
+18. Adakah cara, teknologi, atau jaringan alternatif untuk menekan biaya transaksi yang mahal di ekosistem Ethereum?
+19. Apa itu Layer 2 (L2) rollups dan bagaimana cara teknologi ini membantu skalabilitas jaringan utama Ethereum?
+20. Sebutkan beberapa contoh proyek Layer 2 yang populer saat ini beserta keunggulan unik dari masing-masing jaringan tersebut!
+
+### Tema 3: Ekosistem Web3, Airdrop, dan Testnet
+21. Dalam dunia kripto dan Web3, apa yang dimaksud dengan pembagian token gratis atau "Airdrop"?
+22. Mengapa sebuah proyek kripto rela membagikan suplai token mereka secara gratis kepada komunitas?
+23. Apa saja syarat atau tugas umum yang biasanya harus diselesaikan pengguna agar memenuhi kriteria kelayakan (eligibility) sebuah Airdrop?
+24. Terkadang pengguna diminta untuk mencoba "Testnet" sebuah proyek sebelum peluncuran, apa bedanya Testnet dengan jaringan utama (Mainnet)?
+25. Apakah berpartisipasi dalam transaksi Testnet membutuhkan modal uang atau kripto sungguhan?
+26. Bagaimana cara kita mendapatkan koin simulasi (faucet) untuk digunakan berinteraksi di jaringan Testnet tersebut?
+27. Apa risiko keamanan yang paling sering terjadi saat kita menghubungkan dompet kripto (wallet) ke situs web Airdrop atau Testnet baru?
+28. Ada istilah 'Sybil Attack' dalam perburuan Airdrop, apa arti dari istilah tersebut?
+29. Bagaimana cara pengembang proyek mendeteksi dan mencegah pelaku 'Sybil' agar distribusi Airdrop tepat sasaran ke pengguna asli?
+30. Jika saya berhasil mendapatkan Airdrop dalam jumlah besar, apa strategi terbaik untuk menjual atau menahannya agar profit tetap maksimal?
+
+### Tema 4: Dompet Kripto (Wallet) dan Manajemen Keamanan Aset
+31. Jika saya ingin menyimpan aset kripto, apa bedanya menggunakan dompet (wallet) yang ada di bursa (Exchange) dengan wallet pribadi terdesentralisasi?
+32. Apa makna sebenarnya dari frasa populer kripto "Not your keys, not your coins"?
+33. Di dalam wallet pribadi, apa fungsi utama dari 'Seed Phrase' atau 'Recovery Phrase'?
+34. Jika saya kehilangan ponsel atau laptop yang berisi aplikasi wallet kripto saya, apakah koin saya di dalamnya ikut hilang permanen?
+35. Bagaimana praktik dan cara paling aman untuk menyimpan Seed Phrase agar terhindar dari peretasan digital atau kerusakan fisik?
+36. Apa perbedaan teknis antara 'Hot Wallet' (seperti ekstensi browser) dan 'Cold Wallet' (Hardware Wallet)?
+37. Untuk investor yang menyimpan dana dalam jumlah besar, jenis wallet mana yang lebih direkomendasikan dan mengapa?
+38. Saat kita menggunakan DApps, ada permintaan 'Approval Token'. Apa risikonya jika kita memberikan akses tidak terbatas (unlimited approval)?
+39. Bagaimana cara melacak dan mencabut (revoke) izin akses token dari platform DApp yang sudah tidak kita gunakan lagi?
+40. Sebutkan modus penipuan phishing terbaru di ekosistem Web3 yang menargetkan pengosongan saldo wallet pengguna!
+
+### Tema 5: Analisis Pasar dan Quantitative Trading Kripto
+41. Dalam menganalisis pergerakan harga kripto, apa perbedaan mendasar antara analisis teknikal dan analisis fundamental?
+42. Apa saja metrik fundamental utama (seperti Tokenomics) yang wajib dinilai sebelum berinvestasi dalam sebuah token altcoin baru?
+43. Mari beralih ke perdagangan berbasis data. Apa yang dimaksud dengan pendekatan Quantitative Trading (Quant Trading) dalam pasar kripto?
+44. Bagaimana cara seorang trader kuantitatif menggunakan set data historis untuk membuat model prediksi arah harga koin?
+45. Apa bahasa pemrograman yang paling direkomendasikan dan banyak digunakan untuk membangun model Quant Trading ini?
+46. Bisakah kamu menyebutkan pustaka (library) data science yang paling sering digunakan untuk proses backtesting strategi kripto?
+47. Saat melakukan backtesting pada data historis, bagaimana cara kita mencegah masalah 'Overfitting' agar model tetap akurat di pasar langsung (live market)?
+48. Dalam dunia Quant Trading, apa itu algoritma 'Market Making' dan dari mana mereka mengambil keuntungan secara konsisten?
+49. Mengapa strategi Arbitrase antar bursa kripto (Exchange Arbitrage) menjadi sangat populer di kalangan bot trader kuantitatif?
+50. Apa tantangan teknis terbesar, seperti masalah latensi atau slippage harga, saat mengeksekusi strategi arbitrase secara real-time?
+
+### Tema 6: Pembuatan Bot Trading, Otomatisasi, dan Web3 API
+51. Jika saya ingin membangun bot trading kripto otomatis dari nol, apa saja langkah persiapan sistem yang harus saya lakukan?
+52. Apa perbedaan keuntungan performa menggunakan bahasa yang berjalan secara asinkronus (seperti Node.js) dibandingkan bahasa lain untuk mengembangkan bot kripto?
+53. Bagaimana cara sebuah bot bisa terhubung dan melakukan eksekusi beli/jual langsung secara otomatis di bursa terpusat (CEX)?
+54. Apa fungsi dari integrasi API Key, dan bagaimana standar keamanan terbaik saat menyimpannya di dalam kode skrip kita?
+55. Jika saya membangun bot untuk bursa desentralisasi (DEX) menggunakan pustaka Web3, bagaimana cara kode tersebut berinteraksi dengan Smart Contract?
+56. Untuk membaca perubahan harga token di DEX secara real-time, teknologi atau metode apa yang lebih ringan dibandingkan melakukan polling API terus-menerus?
+57. Saya sering mendengar tentang 'MEV Bot' (Maximal Extractable Value), apa sebenarnya fungsi dan tugas bot jenis ini di jaringan blockchain?
+58. Bagaimana sebuah MEV bot bisa melakukan serangan 'Sandwich Attack' dan mengeksploitasi transaksi pengguna biasa di DEX?
+59. Apakah pembuatan dan pengoperasian MEV bot ini legal, dan bagaimana pandangan moral komunitas kripto terhadapnya?
+60. Jika skrip otomatisasi atau bot saya sudah selesai dikodekan, apa alasan logis saya harus mem-hostingnya di Virtual Private Server (VPS) dan bukan di komputer lokal?
+
+### Tema 7: Pengelolaan Server untuk Hosting Bot dan Node
+61. Apa keuntungan utama menggunakan server Linux untuk menjalankan bot kripto atau aplikasi otomatisasi secara 24/7?
+62. Bagaimana langkah-langkah keamanan dasar untuk melindungi server baru dari serangan brute-force atau injeksi malware?
+63. Saat saya menjalankan skrip bot kripto di server, bagaimana cara agar bot tersebut tetap berjalan di latar belakang meskipun koneksi terminal jarak jauh saya ditutup?
+64. Bisakah kamu menjelaskan secara rinci cara kerja utilitas multiplexer terminal untuk mengelola jendela proses di Linux?
+65. Jika saya memiliki banyak instance skrip bot yang berjalan, apakah manajer proses adalah solusi yang tepat? Bagaimana cara menggunakannya?
+66. Bagaimana cara terbaik untuk memantau (monitoring) metrik penggunaan CPU, RAM, dan bandwidth dari bot kripto saya di dalam terminal?
+67. Jika spesifikasi server saat ini mulai kelebihan beban, bagaimana alur kerja atau workflow terbaik untuk memigrasikan seluruh file proyek dan bot ke server baru?
+68. Apakah disarankan menggunakan teknologi kontainerisasi saat men-deploy skrip bot kripto? Apa kelebihannya?
+69. Selain untuk bot trading, banyak orang menggunakan server untuk menjalankan 'Node Validator'. Apa tugas dari sebuah Node Validator di jaringan blockchain?
+70. Secara umum, spesifikasi hardware minimum seperti apa (CPU, RAM, Storage) yang dibutuhkan untuk menjalankan Full Node dengan stabil?
+
+### Tema 8: Decentralized Finance (DeFi) dan Yield Farming
+71. Mari kembali ke ekosistem Web3. Apa bedanya meminjam uang melalui protokol DeFi dibandingkan dengan pinjaman bank tradisional?
+72. Jika tidak ada institusi yang menjadi perantara, siapa atau apa yang memverifikasi, menahan jaminan, dan mengatur suku bunga di platform DeFi?
+73. Di dalam DEX (Decentralized Exchange), apa yang dimaksud dengan 'Liquidity Pool' dan mengapa itu menjadi fondasi penting bagi perdagangan token?
+74. Bagaimana cara pengguna ritel biasa bisa mendapatkan penghasilan pasif dengan menjadi penyedia likuiditas (Liquidity Provider)?
+75. Apa risiko terbesar dari menjadi penyedia likuiditas, terutama yang sering disebut dengan istilah 'Impermanent Loss'?
+76. Bisakah kamu menjelaskan skenario terjadinya Impermanent Loss ini dengan contoh perhitungan atau simulasi sederhana?
+77. Selain Impermanent Loss, apa risiko tersembunyi lainnya, seperti kerentanan kode kontrak (smart contract exploit), dalam protokol DeFi?
+78. Bagaimana cara kita melakukan riset untuk membedakan antara proyek DeFi asli dengan proyek yang berpotensi penipuan pengurasan dana (Rug Pull)?
+79. Apa yang dimaksud dengan strategi 'Yield Farming', dan bagaimana cara kerjanya memaksimalkan keuntungan bunga kripto?
+80. Mengapa tingkat persentase hasil tahunan (APY) pada proyek DeFi baru sering kali tidak realistis dan pada akhirnya anjlok drastis?
+
+### Tema 9: Psikologi Market, Risiko, dan Platform Trading
+81. Mengingat pergerakan harga kripto sangat liar, apa yang dimaksud dengan sindrom FOMO (Fear Of Missing Out) dan bagaimana ini bisa menghancurkan modal trader?
+82. Lawan dari FOMO adalah FUD (Fear, Uncertainty, and Doubt). Bagaimana berita FUD yang disebar secara masif bisa memanipulasi aksi jual pasar?
+83. Mengapa menetapkan 'Trading Plan' yang sangat disiplin wajib dilakukan sebelum membuka posisi pembelian aset apa pun?
+84. Apa yang dimaksud dengan rasio Risk-to-Reward, dan bagaimana cara menerapkannya dalam setiap perdagangan kripto?
+85. Bagaimana cara kerja teknis dari fitur Stop-Loss otomatis, dan mengapa pemula sering kali mengabaikannya?
+86. Jika saya menggunakan bursa investasi kripto, apa bedanya pasar Spot biasa dengan Margin Trading?
+87. Bagaimana penggunaan leverage atau daya ungkit finansial bisa melipatgandakan profit namun juga mempercepat proses kebangkrutan?
+88. Tolong jelaskan secara teknis apa yang terjadi di bursa saat posisi trading kita terkena 'Margin Call' atau Likuidasi paksa!
+89. Apa itu strategi DCA (Dollar Cost Averaging), dan mengapa strategi ini sangat cocok untuk melawan emosi saat berinvestasi kripto jangka panjang?
+90. Bagaimana cara paling logis untuk mengendalikan emosi keserakahan (greed) saat koin yang kita beli sedang melonjak harganya?
+
+### Tema 10: NFT, GameFi, Regulasi, dan Masa Depan Kripto
+91. Apa sebenarnya NFT (Non-Fungible Token) itu, dan apa letak perbedaannya secara teknis dengan token standar seperti Bitcoin atau Ethereum?
+92. Mengapa gambar digital yang dijadikan NFT bisa memiliki harga hingga jutaan dolar pada saat pasar bullish? Di mana nilai intrinsiknya?
+93. Melampaui sekadar seni digital, apa saja kegunaan nyata (utilitas) dari teknologi NFT yang bisa diterapkan untuk industri di dunia nyata saat ini?
+94. Bagaimana konsep GameFi atau Play-to-Earn (P2E) mencoba mengubah industri game dengan memadukannya bersama kripto?
+95. Mengapa model ekonomi di dalam banyak game Play-to-Earn kripto sering kali hancur atau mengalami hiperinflasi setelah beberapa bulan diluncurkan?
+96. Apa solusi atau desain ekonomi yang harus diterapkan pengembang agar ekonomi token dalam game Web3 bisa stabil untuk jangka panjang?
+97. Melihat kondisi pasar teknologi terkini, apakah narasi tentang dunia virtual Metaverse masih memiliki ruang dan masa depan yang realistis di ekosistem kripto?
+98. Mari bicara tentang makroekonomi: Bagaimana regulasi pajak dan sikap pemerintah secara global saat ini memengaruhi adopsi kripto bagi masyarakat luas?
+99. Apakah persetujuan produk institusional seperti ETF Bitcoin Spot oleh komisi sekuritas Amerika benar-benar membawa dampak nyata bagi pasar kripto?
+100. Dari semua teknologi blockchain, kecerdasan buatan (AI), dan Web3 yang sedang dikembangkan, inovasi apa yang menurutmu paling berpotensi mengubah lanskap keuangan dunia dalam 5 tahun ke depan?
