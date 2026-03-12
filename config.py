@@ -21,7 +21,7 @@ USE_SINGLE_CONVERSATION = True
 # ============================================================
 # Jika menggunakan proxy rotation, cukup tulis 1 kali di sini.
 # Format: "http://user:pass@ip:port" atau biarkan kosong "" jika tidak pakai.
-PROXY = "http://fc23aa5e82afc382d4fd:b47018a66dce3ba3@gw.dataimpulse.com:823"
+PROXY = ""
 
 # ============================================================
 # KONFIGURASI FITUR BOT
